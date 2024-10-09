@@ -1,2 +1,3 @@
-web: python3 Dockerfile
+web: Dockerfile
+web: bash start.sh
 
